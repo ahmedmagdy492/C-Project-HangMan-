@@ -1,0 +1,8 @@
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Sockets\bin\Debug\Sockets.dll
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Sockets\bin\Debug\Sockets.pdb
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Sockets\obj\Debug\Sockets.csprojAssemblyReference.cache
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Sockets\obj\Debug\Sockets.dll
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Sockets\obj\Debug\Sockets.pdb
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Sockets\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Sockets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Sockets\obj\Debug\Sockets.csproj.CopyComplete

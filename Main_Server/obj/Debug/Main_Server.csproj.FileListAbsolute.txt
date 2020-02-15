@@ -1,0 +1,9 @@
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Main_Server\bin\Debug\Main_Server.exe.config
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Main_Server\bin\Debug\Main_Server.exe
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Main_Server\bin\Debug\Main_Server.pdb
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Main_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Main_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Main_Server\obj\Debug\Main_Server.exe
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Main_Server\obj\Debug\Main_Server.pdb
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Main_Server\obj\Debug\Main_Server.csprojAssemblyReference.cache
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Main_Server\obj\Debug\Main_Server.csproj.CopyComplete

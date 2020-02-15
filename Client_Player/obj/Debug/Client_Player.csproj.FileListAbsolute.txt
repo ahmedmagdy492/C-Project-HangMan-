@@ -1,0 +1,15 @@
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Client_Player\bin\Debug\Client_Player.exe.config
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Client_Player\bin\Debug\Client_Player.exe
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Client_Player\bin\Debug\Client_Player.pdb
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Client_Player\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Client_Player\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Client_Player\obj\Debug\Client_Player.frmLogin.resources
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Client_Player\obj\Debug\Client_Player.Properties.Resources.resources
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Client_Player\obj\Debug\Client_Player.csproj.GenerateResource.cache
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Client_Player\obj\Debug\Client_Player.exe
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Client_Player\obj\Debug\Client_Player.pdb
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Client_Player\obj\Debug\Client_Player.Roomslist.resources
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Client_Player\obj\Debug\Client_Player.CreateRoom.resources
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Client_Player\obj\Debug\Client_Player.csprojAssemblyReference.cache
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Client_Player\obj\Debug\Client_Player.csproj.CopyComplete
+C:\Users\AhmeD-Magdy\source\repos\Main_Server\Client_Player\obj\Debug\guess_the_name.GameFrm.resources
